@@ -1,0 +1,95 @@
+﻿Information listing created by	guest-lti
+Date	30-Nov-2023 19:59:24
+Current work part	C:\Users\guest-lti\Desktop\proj\model1_fem2.fem
+Node name	jimmychoo
+
+
+ 
+------------------------------------------------------------
+ 
+              ELEMENT INFORMATION
+ 
+------------------------------------------------------------
+ 
+ 
+ELEMENT INFORMATION
+  Label                | Element Type   | Mesh           | Mesh Collector | Connected Nodes
+  1                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 133 3 132 23 24 134
+  2                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 180 4 120 25 26 121
+  3                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 4 123 3 27 28 29
+  4                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 4 180 123 25 126 27
+  5                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 4 179 120 30 122 26
+  6                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 133 4 3 31 29 23
+  7                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 133 179 4 135 30 31
+  8                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 7 6 1 32 33 34
+  9                    | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 5 132 3 35 24 36
+  10                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 132 7 131 37 38 136
+  11                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 132 5 7 35 39 37
+  12                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 7 2 131 40 41 38
+  13                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 6 7 5 32 39 42
+  14                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 1 2 7 43 40 34
+  15                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 124 3 123 44 28 127
+  16                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 8 124 125 45 128 46
+  17                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 124 5 3 47 36 44
+  18                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 124 8 5 45 48 47
+  19                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 125 9 8 49 50 46
+  20                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 9 181 139 51 142 52
+  21                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 9 125 181 49 129 51
+  22                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 139 10 9 53 54 52
+  23                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 10 140 1 55 56 57
+  24                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 10 139 140 53 143 55
+  25                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 8 6 5 58 42 48
+  26                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 9 6 8 59 58 50
+  27                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 6 10 1 60 57 33
+  28                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 6 9 10 59 54 60
+  29                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 11 160 161 61 164 62
+  30                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 171 176 12 63 64 65
+  31                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 171 187 176 172 177 63
+  32                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 160 176 186 66 178 165
+  33                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 12 160 11 67 61 68
+  34                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 12 176 160 64 66 67
+  35                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 147 15 146 69 70 150
+  36                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 15 155 156 71 157 72
+  37                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 15 147 155 69 73 71
+  38                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 13 185 169 74 173 75
+  39                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 16 13 14 76 77 78
+  40                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 185 16 156 79 80 158
+  41                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 185 13 16 74 76 79
+  42                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 16 15 156 81 72 80
+  43                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 163 17 14 82 83 84
+  44                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 17 184 146 85 151 86
+  45                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 17 163 184 82 166 85
+  46                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 17 16 14 87 78 83
+  47                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 15 17 146 88 86 70
+  48                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 15 16 17 81 87 88
+  49                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 169 18 13 89 90 75
+  50                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 170 18 169 91 89 174
+  51                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 12 170 171 92 175 65
+  52                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 12 18 170 93 91 92
+  53                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 161 19 11 94 95 62
+  54                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 161 162 19 167 96 94
+  55                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 14 162 163 97 168 84
+  56                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 14 19 162 98 96 97
+  57                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 13 19 14 99 98 77
+  58                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 11 18 12 100 93 68
+  59                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 18 19 13 101 99 90
+  60                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 18 11 19 100 95 101
+  61                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 20 141 183 102 144 103
+  62                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 130 2 21 104 105 106
+  63                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 130 131 2 137 41 104
+  64                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 22 141 20 107 102 108
+  65                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 140 22 1 109 110 56
+  66                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 140 141 22 145 107 109
+  67                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 21 22 20 111 108 112
+  68                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 22 2 1 113 43 110
+  69                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 22 21 2 111 105 113
+  70                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 21 182 130 114 138 106
+  71                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 21 149 182 115 152 114
+  72                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 21 20 149 112 116 115
+  73                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 155 148 183 117 118 159
+  74                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 155 147 148 73 153 117
+  75                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 20 148 149 119 154 116
+  76                   | CTRIA6         | 2d_mesh(1)     | Thin Shell(1)  | 20 183 148 103 118 119
+ 
+------------------------------------------------------------
+ 
